@@ -1,0 +1,21 @@
+{
+  "name": "apple-pay-merchant-session-server",
+  "version": "1.0.0",
+  "description": "Server for obtaining Apple Pay merchant sessions",
+  "main": "server.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tomdale/apple-pay-merchant-session-server.git"
+  },
+  "author": "Tom Dale <tom@tomdale.net>",
+  "bugs": {
+    "url": "https://github.com/tomdale/apple-pay-merchant-session-server/issues"
+  },
+  "homepage": "https://github.com/tomdale/apple-pay-merchant-session-server#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "request": "^2.72.0",
+    "x509": "^0.2.6"
+  }
+}
